@@ -7,11 +7,15 @@ You cannot see it, only check status with command "git status". It offers one ch
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Before you make a commit, you can use command "git diff" in order to check if file located in staging area contains only one logical change. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you are trying to build some new feature but you are not so sure how it needs to look and you need to experiment. Then you make a branch 
+and that way you are not touching the original code.  
 
 How do the diagrams help you visualize the branch structure?
+When I see diagram it is more easier to realize which commit is not seen for each branch and which is seen. That way is much easier to understand concepts of branches in git.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
