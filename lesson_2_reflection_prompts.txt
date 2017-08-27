@@ -19,6 +19,9 @@ When I see diagram it is more easier to realize which commit is not seen for eac
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Result is one branch with commits from both branches. Because it gives simple understanding what command merge does.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros: simpler
+Cons: merge conflicts may be introduced
