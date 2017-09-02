@@ -9,3 +9,6 @@ Fork - when I want to clone repository from Github to my Github profile (for exa
 Clone - when I want to clone repository locally onto my computer
 Branches - when I want to test/implement some feature or fix bug
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+In that case you have all possible changes made by other collaborators included. You know that you are working with latest code.
+
