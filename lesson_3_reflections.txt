@@ -17,3 +17,7 @@ Without using Git or GitHub - via e-mails or in person
 Easier - if you have some small code changes (small commits) you would probably save time if you just tell each other what is changed?
 Harder - code differences review, collaborating in general 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I am working on some new feature and I am not completely sure if this will work or not. 
+Benefit of making changes in seperate branch - confidence that code is working
+Benefit of making changes directly in master - less complicated and time saving
